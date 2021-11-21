@@ -16,7 +16,7 @@ To get the project running on your local machine, you need to follow these steps
 
 Use this to clone it to your local machine:
 ```bash
-git clone https://github.com/udacity/REPOSITORY_NAME.git
+git clone https://github.com/Raghav-Saboo/UdacityAsteroidRadar.git
 ```
 
 **Step 2: Run the project and check that it compiles correctly**
